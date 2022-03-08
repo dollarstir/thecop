@@ -965,7 +965,7 @@
                                                         </div>
                                                     </div>    
                                                 </div>
-                                                <div class="form-group row">
+                                                <!-- <div class="form-group row">
                                                     <label class="col-xl-3 col-lg-3 col-form-label">COPrID</label>
                                                     <div class="col-lg-9 col-xl-9">
                                                         <div class="input-group">
@@ -974,7 +974,7 @@
                                                         </div> 
                                                     </div>
                                                     
-                                                </div>
+                                                </div> -->
                                                 <div class="form-group row">
                                                     <label class="col-xl-3 col-lg-3 col-form-label">Assembly</label>
                                                         <div class="col-lg-9 col-xl-9">
